@@ -1,0 +1,14 @@
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\imena\bin\Debug\net7.0\imena.exe
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\imena\bin\Debug\net7.0\imena.deps.json
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\imena\bin\Debug\net7.0\imena.runtimeconfig.json
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\imena\bin\Debug\net7.0\imena.dll
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\imena\bin\Debug\net7.0\imena.pdb
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\imena\obj\Debug\net7.0\imena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\imena\obj\Debug\net7.0\imena.AssemblyInfoInputs.cache
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\imena\obj\Debug\net7.0\imena.AssemblyInfo.cs
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\imena\obj\Debug\net7.0\imena.csproj.CoreCompileInputs.cache
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\imena\obj\Debug\net7.0\imena.dll
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\imena\obj\Debug\net7.0\refint\imena.dll
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\imena\obj\Debug\net7.0\imena.pdb
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\imena\obj\Debug\net7.0\imena.genruntimeconfig.cache
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\imena\obj\Debug\net7.0\ref\imena.dll

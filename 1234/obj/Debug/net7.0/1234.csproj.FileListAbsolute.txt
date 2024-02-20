@@ -1,0 +1,14 @@
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\1234\bin\Debug\net7.0\1234.exe
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\1234\bin\Debug\net7.0\1234.deps.json
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\1234\bin\Debug\net7.0\1234.runtimeconfig.json
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\1234\bin\Debug\net7.0\1234.dll
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\1234\bin\Debug\net7.0\1234.pdb
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\1234\obj\Debug\net7.0\1234.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\1234\obj\Debug\net7.0\1234.AssemblyInfoInputs.cache
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\1234\obj\Debug\net7.0\1234.AssemblyInfo.cs
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\1234\obj\Debug\net7.0\1234.csproj.CoreCompileInputs.cache
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\1234\obj\Debug\net7.0\1234.dll
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\1234\obj\Debug\net7.0\refint\1234.dll
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\1234\obj\Debug\net7.0\1234.pdb
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\1234\obj\Debug\net7.0\1234.genruntimeconfig.cache
+C:\Users\f75\OneDrive\Desktop\Programirane\Solution3\1234\obj\Debug\net7.0\ref\1234.dll
